@@ -5,7 +5,7 @@ The code provided is supposed to replace all the dots . in the specified String 
 
 But it's not working properly.
 
-####### Task
+###### Task
 Fix the bug so we can all go home early.
 
 ###### Notes
