@@ -11,7 +11,7 @@ Fix the bug so we can all go home early.
 ###### Notes
 String str will never be null.
 
-[Link to Kata](https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript) 
+[Link to the Kata](https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript) 
 
 ### Solving Process
 1. The first thing I did was test the current non-working code to see what errors it threw.
